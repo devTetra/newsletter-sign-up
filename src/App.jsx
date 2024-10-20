@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import listIcon from "./assets/icon-list.svg";
+import successIcon from "./assets/icon-sucess.svg";
 import desktopIllustration from "./assets/illustration-sign-up-desktop.svg";
 import mobileIllustration from "./assets/illustration-sign-up-mobile.svg";
 
@@ -112,7 +113,7 @@ function App() {
           {redirect && (
             <div className="flex h-screen w-screen flex-col gap-5 px-4 py-28 md:h-auto md:max-w-72 md:justify-normal md:p-4">
               <div>
-                <img src={listIcon} alt="" className="w-1/6" />
+                <img src={successIcon} alt="" className="w-1/6" />
               </div>
               <h1 className="text-charcoal-grey text-4xl font-black">
                 Thanks for subscribing!
