@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [newsletter-sign-up-azure.vercel.app/](https://newsletter-sign-up-azure.vercel.app/)
 
 ## My process
 
