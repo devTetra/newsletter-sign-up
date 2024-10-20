@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import listIcon from "./assets/icon-list.svg";
-import successIcon from "./assets/icon-sucess.svg";
+import successIcon from "./assets/icon-success.svg";
 import desktopIllustration from "./assets/illustration-sign-up-desktop.svg";
 import mobileIllustration from "./assets/illustration-sign-up-mobile.svg";
 
