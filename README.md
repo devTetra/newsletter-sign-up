@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-with-react-and-tailwind-css-qbCur9kJ-X](https://www.frontendmentor.io/solutions/social-links-profile-with-react-and-tailwind-css-qbCur9kJ-X)
+- Solution URL: [https://www.frontendmentor.io/solutions/signup-form-with-success-message-z9eTox4jbo](https://www.frontendmentor.io/solutions/signup-form-with-success-message-z9eTox4jbo)
 - Live Site URL: [newsletter-sign-up-azure.vercel.app/](https://newsletter-sign-up-azure.vercel.app/)
 
 ## My process
